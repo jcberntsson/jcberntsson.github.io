@@ -24,7 +24,7 @@ content {
     flex: 1;
 }
 
-header, section {
+header, section, footer {
     width: 100%;
 }
 
@@ -35,6 +35,7 @@ section {
 footer {
     margin-top: 20px;
     font-size: 0.8em;
+    text-align: center;
 }
 
 header {
