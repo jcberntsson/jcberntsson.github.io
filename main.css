@@ -2,7 +2,8 @@
 html, body {
     background-color: #F4EBE1;
     color: #444;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Cousine', 'Courier New', Courier, monospace;
+    -webkit-font-smoothing: antialiased;
 }
 
 body {
